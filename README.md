@@ -1,4 +1,5 @@
 # Calculator
+
 This is my first Git Repository.
 <br>
-Author:- Zahed Khan
+Author:- Zahed Khan s/o Aijaz Khan
